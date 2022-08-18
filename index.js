@@ -1,4 +1,4 @@
-const piu = document.getElementById("piu");
+
 
 var i = 0;
 var text = "WELCOME!";
